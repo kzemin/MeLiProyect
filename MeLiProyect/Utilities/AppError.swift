@@ -24,11 +24,11 @@ enum AppError: Error, Identifiable {
         }
     }
     
-    // Return custom images for each
+    // Return custom images system names for each
     var imageName: String {
         switch self {
         case .network: return "wifi.slash"
-        case .data: return "not-found"
+        case .data: return "exclamationmark.magnifyingglass"
         }
     }
 }
