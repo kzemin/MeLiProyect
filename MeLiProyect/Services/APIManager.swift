@@ -5,9 +5,6 @@
 //  Created by Facundo Kzemin on 28/08/2024.
 //
 
-// APP ID: 5548306689796390
-// Client Secret: HoAYC6qFPnQCAvqqF8F0TUQ0GrT74gIJ
-
 import Foundation
 import Combine
 
